@@ -10,7 +10,7 @@ if ($run) {
    
     header('location:read.php');
 } else {
-    echo "Error";
+    echo "Error to new";
     
     header('location:read.php');
 }
